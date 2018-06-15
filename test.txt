@@ -1,0 +1,13 @@
+12345
+
+-------------------------------------------
+ Volume in drive C has no label.
+ Volume Serial Number is AC7D-5A47
+
+ Directory of C:\Users\BABU\Desktop\Git project
+
+06/14/2018  12:54 PM    <DIR>          .
+06/14/2018  12:54 PM    <DIR>          ..
+06/14/2018  12:54 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  86,935,908,352 bytes free
